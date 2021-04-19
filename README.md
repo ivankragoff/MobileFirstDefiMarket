@@ -6,6 +6,10 @@ Marketbook (subject to change) is a native application that implements the speed
 
 ![image](https://user-images.githubusercontent.com/5884218/115282874-b4d3d280-a118-11eb-9195-d7f47cd52d5e.png)
 
+![image](https://user-images.githubusercontent.com/5884218/115284905-404e6300-a11b-11eb-988d-85f37e1e5de5.png)
+
+![image](https://user-images.githubusercontent.com/5884218/115284885-37f62800-a11b-11eb-9ec9-52c74cf37128.png)
+
 ![image](https://user-images.githubusercontent.com/5884218/115283252-1bf18700-a119-11eb-98a7-2122b3fbf739.png)
 
 Demo: 
